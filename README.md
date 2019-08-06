@@ -1,5 +1,5 @@
 Monitoring IT Infrastructure with Python & OpenCV.
-Within data centers, technicians regularly travel down numerous aisles of rack mounted equipment checking for warning lights. 
+Within data centers, technicians regularly travel down numerous aisles of rack mounted equipment checking for warning lights. Rather than having a person physically move down the aisle, cameras streams can be automatically processed to detect warning conditions and keep track of the number of warning conditions. 
 Lets see how Python & OpenCV can help with the detection as shown in the brief below.
 
 Original image 
